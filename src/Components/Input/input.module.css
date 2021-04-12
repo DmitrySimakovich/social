@@ -1,0 +1,20 @@
+.wrapInput {
+    width: 80%;
+    height: 35px;
+
+    border: none;
+    border-radius: 10px;
+
+    padding-left: 10px;
+
+    background-color: white;
+    outline: none;
+    box-shadow: 0 0 10px rgba(0,0,0,0.2);
+}
+.errorInputIndicator {
+    border: 1px red solid;
+}
+.checkBox {
+    width: 20px;
+    height: 20px;
+}
